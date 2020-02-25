@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da3c03db-7933-4783-b36d-6e9fcef8c998" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sender/AuthSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Receiver/BattleReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Battle/PieceScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Receiver/AuthReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD36D161-0EDB-4909-9A63-E42167ECF462/42/f06a4332/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LxcTools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Network/Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/50A7D4C6-BF79-402F-B57E-36B7C2AAE5E0/55/735311a3/Number.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD36D161-0EDB-4909-9A63-E42167ECF462/48/8437e63d/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78327B6C-3C08-4CA5-975B-799474D7A953/d7/a87459ea/NotImplementedException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sender/LobbySender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD36D161-0EDB-4909-9A63-E42167ECF462/87/94b6ee07/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78327B6C-3C08-4CA5-975B-799474D7A953/34/23758a8c/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Receiver/LobbyReciver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Battle/BoardScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sender/BattleSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10021401-6059-4824-8453-0038EFB79DD7/d8/ae5a8b2d/Socket.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/LoginCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/ClientSocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/SubmitButtom.cs" />
+        <option value="$PROJECT_DIR$/Assets/GreetingScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/LoginScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/RegisterScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/AuthScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubmitScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Const.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SocketConst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneConst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SubmitScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HintConst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClientSocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AuthScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Global/ControllerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Global/Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lobby/QuitScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lobby/LobbyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Login/AuthScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Login/SubmitScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Login/AuthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lobby/WelcomeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/BoardScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/BattleController.cs" />
+        <option value="$PROJECT_DIR$/Assets/CrossScripts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/AuthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Const/SocketConst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/LobbyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/AuthSender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/LobbySender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controller/BattleSender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Network/ClientSocket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Const/HintConst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Const/ServerConst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Receiver/AuthReciver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sender/BattleSender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LxcTools.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Battle/PieceScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Battle/BoardScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Receiver/BattleReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sender/AuthSender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Receiver/AuthReceiver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Receiver/LobbyReciver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sender/LobbySender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Network/Client.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XymXvwMl11dx4KvBUpIrvTse3p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da3c03db-7933-4783-b36d-6e9fcef8c998" name="Default Changelist" comment="" />
+      <created>1582026752500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582026752500</updated>
+      <workItem from="1582026759369" duration="4239000" />
+      <workItem from="1582086205428" duration="2527000" />
+      <workItem from="1582093112556" duration="8747000" />
+      <workItem from="1582119063075" duration="3533000" />
+      <workItem from="1582168125051" duration="7028000" />
+      <workItem from="1582291151949" duration="6915000" />
+      <workItem from="1582373001263" duration="7365000" />
+      <workItem from="1582437463611" duration="11210000" />
+      <workItem from="1582518025593" duration="39073000" />
+      <workItem from="1582603276937" duration="3918000" />
+      <workItem from="1582610980502" duration="1428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1582115910921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582115910921" />
+    <state x="-1650" y="48" key="SettingsEditor" timestamp="1582171953978">
+      <screen x="-1920" y="-7" width="1536" height="832" />
+    </state>
+    <state x="-1650" y="48" key="SettingsEditor/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582171953978" />
+    <state x="539" y="191" width="840" height="848" key="search.everywhere.popup" timestamp="1582522952447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1489" y="146" width="672" height="678" key="search.everywhere.popup/-1920.-7.1536.832/0.0.1920.1040@-1920.-7.1536.832" timestamp="1582029338016" />
+    <state x="539" y="191" width="840" height="848" key="search.everywhere.popup/-1920.-7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1582522952447" />
+  </component>
+</project>
